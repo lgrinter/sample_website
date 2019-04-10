@@ -1,7 +1,49 @@
-      .nav-spacing {
-        margin: 0 0 0 10px;
-      }
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
       
-      .nav-menu{
-        text-align: right;
-      }
+.nav-menu {
+  text-align: right;
+}
+
+.image-link {
+  text-decoration: none;
+}      
+
+.header{
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.sperm_whale{
+  display: block;
+  margin: 0 auto;
+}
+
+.book_cover{
+  float: left;
+  margin-right: 40px;
+}
+
+.block_quote{
+  font-style: italic;
+  font-size: 20px;
+}
+
+.ishmel{
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.content{
+  width: 500px; 
+  margin: 20px auto; 
+  padding:30px; 
+  background-color: #fafafa;
+}
+
+.table {
+  padding: 10px;
+}
